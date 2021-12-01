@@ -1,0 +1,42 @@
+/* Colors and fonts */
+body {
+	background: #F7F9FC;
+	color: #575F7D;
+	font-family: 'Lora', serif;
+	font-size: 17px;
+	font-weight: lighter;
+}
+h1, h2, h3 {
+	font-family: 'Roboto', sans-serif;
+}
+h1{
+	color: #575F7D;
+	font-size: 32px;
+	font-weight: 900;
+}
+h2 {
+	color: #7ECE90;
+	font-size: 20px;
+	font-weight: lighter;
+	font-weight: 500;
+}
+a {
+	font-family: 'Roboto', sans-serif;
+	text-decoration: none;
+	color: #6B72E1;
+	font-weight: 600;
+	font-size: 16px;6
+
+}
+a:hover {
+	color:  black;
+}
+
+.card-white {
+	background-color: white;
+	padding: 50px;
+	box-shadow: 100px 10px 30px rgba(0, 0, 0, 0.4);
+	border-radius: 50px;
+	margin: 30px 5px;
+	text-align: center;
+}33
